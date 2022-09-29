@@ -14,7 +14,7 @@ git push
 
 The way I learned coding is mainly through [Youtube](https://www.youtube.com)
 
-To know more go to [README.md](gonomo/CSE110/README.md)
+To know more go to [README.md](/README.md)
 
 ![This is an image you might want to see](https://myoctocat.com/assets/images/base-octocat.svg)
 
